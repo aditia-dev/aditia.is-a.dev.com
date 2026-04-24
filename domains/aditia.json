@@ -1,9 +1,9 @@
 {
     "owner": {
-        "username": "aditia-dev"
+        "username": "aditia-dev",
+        "URL": "https://github.com/aditia-dev"
     },
     "records": {
-        "URL": "https://github.com/aditia-dev",
         "NS":[
             "adele.ns.cloudflare.com",
             "vicky.ns.cloudflare.com"
