@@ -5,7 +5,7 @@
         "email": "copy-dizzy-green@duck.com"
     },
     "records": {
-        "NS":[
+        "NS": [
             "adele.ns.cloudflare.com",
             "vicky.ns.cloudflare.com"
         ]
